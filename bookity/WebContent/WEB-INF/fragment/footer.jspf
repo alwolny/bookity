@@ -2,7 +2,7 @@
 <footer class="footer">
     <div class="container">
         <p class="navbar-text">
-            Application source code <a href="http://github.com">on github</a>
+            Application source code <a href="https://github.com/alwolny/bookity">on github</a>
         </p>
     </div>
 </footer>
