@@ -3,13 +3,13 @@ Bookity is a Java EE web service. It allows users to sign up, log in, and change
 
 **Technologies used**: Java EE (JSP, JSTL, EL, JDBC), Bootstrap, HTML, CSS, JavaMail, MySQL, Spring JDBC, Apache Tomcat
 
-### Prerequisites
+## Prerequisites
 - JDK7+
 - Eclipse Java EE IDE
 - Tomcat 7
 - MySQL Server and a MySQL client (e.g. MySQL Workbench) 
 
-### Table schema
+## Table schema
 Run [this SQL script](https://github.com/schroedingers-katze/bookity/blob/master/sql.txt) to create the database for the application. 
 
 
